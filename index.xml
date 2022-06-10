@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -176,7 +177,7 @@
 	  <button class="btn" style="width:100%" onclick="let_download('https://github.com/sansoe2022/MAX-VPN/blob/main/MAX-VPN_1.0.1.apk?raw=true');"> Download MAX-VPN (Github) </button>
 	  
 	
-	  <p style="text-align: center;">Copyright 2022© MAX-VPN</p>
+	  <p style="text-align: center;">Copyright 2022© HlaMyoMin</p>
 <script>
             function let_download(url) {
                 window.open(url,"_blank");
