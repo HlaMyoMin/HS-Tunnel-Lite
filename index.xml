@@ -18,7 +18,7 @@
         .btn {
             border-radius: 100px;
             margin-bottom: 10px;
-			height: 50px;
+            height: 50px;
             background-color:#03A9F4;
             border: none;
             color: white;
@@ -169,11 +169,11 @@
 	  </table>
 
 	  <p style="text-align: center;color: #03A9F4;"> Powered By HS Tunnel(@DevTeam)  </p>
-	  <button class="btn" style="width:100%" onclick="let_download('https://www.mediafire.com/download/uowlg5dgut4lsuj');"> Download MAX-VPN (MediaFire) </button>
+	  <button class="btn" style="width:100%" onclick="let_download('https://www.mediafire.com/download/uowlg5dgut4lsuj');"> Download HS-Tunnel-Lite (MediaFire) </button>
 
 	  <p style="text-align: center;color: #F9A825;"> If you download isn't working click another  button link to below ️ </p>
 	  
-	  <button class="btn" style="width:100%" onclick="let_download('https://github.com/sansoe2022/MAX-VPN/blob/main/MAX-VPN_1.0.1.apk?raw=true');"> Download MAX-VPN (Github) </button>
+	  <button class="btn" style="width:100%" onclick="let_download('https://github.com/sansoe2022/MAX-VPN/blob/main/MAX-VPN_1.0.1.apk?raw=true');"> Download HS-Tunnel-Lite(Github) </button>
 	  
 	
 	  <p style="text-align: center;">Copyright 2022© HlaMyoMin</p>
